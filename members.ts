@@ -70,19 +70,19 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/ZhouXiinlei',
-    name: 'ZhouXiinlei',
-    title: 'Active Contributor',
-    links: [
-      { icon: 'github', link: 'https://github.com/ZhouXiinlei' },
-    ]
-  },
-  {
     avatar: 'https://avatars.hdu-cs.wiki/BaiMeow',
     name: 'BaiMeow',
     title: 'Active Contributor',
     links: [
       { icon: 'github', link: 'https://github.com/BaiMeow' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/ZhouXiinlei',
+    name: 'ZhouXiinlei',
+    title: 'Active Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/ZhouXiinlei' },
     ]
   },
   {
@@ -134,14 +134,6 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/ganbabamaster',
-    name: 'ganbabamaster',
-    title: 'Contributor',
-    links: [
-      { icon: 'github', link: 'https://github.com/ganbabamaster' },
-    ]
-  },
-  {
     avatar: 'https://avatars.hdu-cs.wiki/ChengNanFlower',
     name: 'ChengNanFlower',
     title: 'Contributor',
@@ -150,11 +142,11 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/ek1ng',
-    name: 'ek1ng',
+    avatar: 'https://avatars.hdu-cs.wiki/ganbabamaster',
+    name: 'ganbabamaster',
     title: 'Contributor',
     links: [
-      { icon: 'github', link: 'https://github.com/ek1ng' },
+      { icon: 'github', link: 'https://github.com/ganbabamaster' },
     ]
   },
   {
@@ -166,19 +158,19 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/w31r4',
-    name: 'w31r4',
+    avatar: 'https://avatars.hdu-cs.wiki/yinchunyuan',
+    name: 'yinchunyuan',
     title: 'Contributor',
     links: [
-      { icon: 'github', link: 'https://github.com/w31r4' },
+      { icon: 'github', link: 'https://github.com/yinchunyuan' },
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/sd0ric4',
-    name: 'sd0ric4',
+    avatar: 'https://avatars.hdu-cs.wiki/ek1ng',
+    name: 'ek1ng',
     title: 'Contributor',
     links: [
-      { icon: 'github', link: 'https://github.com/sd0ric4' },
+      { icon: 'github', link: 'https://github.com/ek1ng' },
     ]
   },
   {
@@ -190,6 +182,22 @@ export const members: Member = [
     ]
   },
   {
+    avatar: 'https://avatars.hdu-cs.wiki/sd0ric4',
+    name: 'sd0ric4',
+    title: 'Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/sd0ric4' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/w31r4',
+    name: 'w31r4',
+    title: 'Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/w31r4' },
+    ]
+  },
+  {
     avatar: 'https://avatars.hdu-cs.wiki/Bian-Mu',
     name: 'Bian-Mu',
     title: 'Contributor',
@@ -198,35 +206,11 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/aFlyBird0',
-    name: 'aFlyBird0',
+    avatar: 'https://avatars.hdu-cs.wiki/U1traVeno',
+    name: 'U1traVeno',
     title: 'Contributor',
     links: [
-      { icon: 'github', link: 'https://github.com/aFlyBird0' },
-    ]
-  },
-  {
-    avatar: 'https://avatars.hdu-cs.wiki/NX-Official',
-    name: 'NX-Official',
-    title: 'Contributor',
-    links: [
-      { icon: 'github', link: 'https://github.com/NX-Official' },
-    ]
-  },
-  {
-    avatar: 'https://avatars.hdu-cs.wiki/PM25OO',
-    name: 'PM25OO',
-    title: 'Contributor',
-    links: [
-      { icon: 'github', link: 'https://github.com/PM25OO' },
-    ]
-  },
-  {
-    avatar: 'https://avatars.hdu-cs.wiki/NingmengLemon',
-    name: 'NingmengLemon',
-    title: 'Contributor',
-    links: [
-      { icon: 'github', link: 'https://github.com/NingmengLemon' },
+      { icon: 'github', link: 'https://github.com/U1traVeno' },
     ]
   },
   {
@@ -238,11 +222,43 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/U1traVeno',
-    name: 'U1traVeno',
+    avatar: 'https://avatars.hdu-cs.wiki/NingmengLemon',
+    name: 'NingmengLemon',
     title: 'Contributor',
     links: [
-      { icon: 'github', link: 'https://github.com/U1traVeno' },
+      { icon: 'github', link: 'https://github.com/NingmengLemon' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/PM25OO',
+    name: 'PM25OO',
+    title: 'Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/PM25OO' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/NX-Official',
+    name: 'NX-Official',
+    title: 'Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/NX-Official' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/DLSinnocence',
+    name: 'DLSinnocence',
+    title: 'Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/DLSinnocence' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/aFlyBird0',
+    name: 'aFlyBird0',
+    title: 'Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/aFlyBird0' },
     ]
   },
   {
